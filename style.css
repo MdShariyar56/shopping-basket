@@ -1,0 +1,33 @@
+body {
+      font-family: 'Roboto', sans-serif;
+      background-color: #fafafa;
+    }
+h1, h2, h3, h4 {
+      font-family: 'Playfair Display', serif;
+    }
+.navbar-brand {
+      font-size: 1.5rem;
+      font-weight: bold;
+    }
+.basket-item {
+      border-bottom: 1px solid #ddd;
+      padding: 15px 0;
+    }
+.basket-item img {
+      border-radius: 8px;
+    }
+.order-summary {
+      background: #fff;
+      border-radius: 12px;
+      box-shadow: 0 2px 10px rgba(0,0,0,0.05);
+    }
+.btn-payment {
+      background-color: #198754;
+      color: white;
+      border-radius: 10px;
+      font-size: 1.1rem;
+    }
+.btn-payment:hover {
+      background-color: #157347;
+    }
+  
